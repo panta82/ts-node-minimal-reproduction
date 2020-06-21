@@ -1,0 +1,15 @@
+{
+	"name": "test",
+	"version": "0.0.1",
+	"description": "Project test",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"prettier": "latest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT"
+}
